@@ -25,7 +25,7 @@ Les secondes ne sont pas disponibles.
 
 La durée sera alors exprimée ainsi : <strong>[durée][unité]</strong>
 
-Note : "durée" doit être un nombre entier.
+Note : <strong>[durée]</strong> doit être un nombre entier.
 
 **Exemple** : Si je veux appliquer une durée de trois jours, j'écrirai **3d**.
 
