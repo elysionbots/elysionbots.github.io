@@ -31,7 +31,9 @@ Note : <strong>[durée]</strong> doit être un nombre entier.
 
 ### Liste des commandes
 <strong>\<argument\></strong> = argument optionnel
+
 <strong>[argument]</strong> = argument requis
+
 |Commande|Fonction  |Arguments|Rôle requis|
 |--|--|--|--|
 |*getwarns|Permet d'avoir ses derniers warns / voir ceux d'un autre utilisateur|<strong><@utilisateur></strong>|@Joueur|
