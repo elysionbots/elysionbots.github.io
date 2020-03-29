@@ -73,4 +73,4 @@ Vous apprendrez ici à utiliser le bot de Gestion de Staff **@Elysion Staff#8062
 |Rôle minimum|@Responsable Modérateur  |
 
 ### Commandes
-> Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs]([https://ricostacruz.com/flatdoc/](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
+> Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
