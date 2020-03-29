@@ -144,7 +144,7 @@ Vous apprendrez ici à utiliser le bot de Drops **@Elysion Drops#7959**
 
 |Commande|Fonction  |Arguments|Rôle requis|
 |--|--|--|--|
-|&drop  |Permet de créer un drop  |<strong>add &lt;type&gt; <nombre de réactions> &lt;channel&gt;|@Créateur de drops|
+|&drop  |Permet de créer un drop  |<strong>add &lt;type&gt; &lt;nombre de réactions&gt; &lt;channel&gt;|@Créateur de drops|
 
 
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
