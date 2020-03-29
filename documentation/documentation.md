@@ -7,7 +7,6 @@ Vous apprendrez ici à utiliser le bot de Modération **@Elysion Modération#152
 
 ### Informations de base
 
- 
 |Item|Valeur  |
 |--|--|
 |Préfixe  |*  |
@@ -15,6 +14,7 @@ Vous apprendrez ici à utiliser le bot de Modération **@Elysion Modération#152
 
 ### Durées
 Les durées doivent être exprimées d'une certaine manière, voir le tableau ci-dessous :
+
 |Unité|Suffixe  |
 |--|--|
 |Minutes|m|
