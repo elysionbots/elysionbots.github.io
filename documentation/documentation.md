@@ -32,9 +32,11 @@ Note : <strong>[durée]</strong> doit être un nombre entier.
 ### Liste des commandes
 |Commande|Fonction  |Arguments|Rôle requis|
 |--|--|--|--|
-|*warn  |Permet d'avertir un utilisateur  |[@utilisateur] [raison]|@Modo Test|
-|*mute|Permet de rendre muet un utilisateur|[@utilisateur] [durée] [raison]|@Modo|
-|*tempban|Permet de bannir temporairement un utilisateur|[@utilisateur][durée][raison]|@Responsable Modérateur
+|*getwarns|Permet d'avoir ses derniers warns / voir ceux d'un autre utilisateur|<strong><@utilisateur></strong>|@Joueur|
+|*warn  |Permet d'avertir un utilisateur  |<strong>[@utilisateur] [raison]</strong>|@Modo Test|
+|*mute|Permet de rendre muet un utilisateur|<strong>[@utilisateur] [durée] [raison]</strong>|@Modo|
+|*tempban|Permet de bannir temporairement un utilisateur|[<strong>@utilisateur][durée][raison]</strong>|@Responsable Modérateur|
+|*ban|Permet de bannir définitivement un utilisateur|<strong>[@utilisateur] [durée] [raison]</strong>|@Responsable Staff|
 
 
 > Fait avec [StackEdit](https://stackedit.io/).
