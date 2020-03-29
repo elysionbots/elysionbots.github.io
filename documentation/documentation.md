@@ -10,7 +10,7 @@ Vous apprendrez ici à utiliser le bot de Modération **@Elysion Modération#152
 |Item|Valeur  |
 |--|--|
 |Préfixe  |*  |
-|Rôle minimum|@Modo Test  |
+|Rôle minimum|@Joueur  |
 
 ### Durées
 Les durées doivent être exprimées d'une certaine manière, voir le tableau ci-dessous :
@@ -46,6 +46,7 @@ Note : <strong>[durée]</strong> doit être un nombre entier.
 
 ### Sanctions automatiques
 Voici la liste des sanctions automatiques, appliquées par le bot :
+
 |Infraction|Sanctions  |
 |--|--|
 |Envoi d'invitation discord  |Warn  |
@@ -61,4 +62,15 @@ Les sanctions de type **warn** et **ban**/**tempban** sont associées à un grad
 ### Logs
 Toutes les sanctions sont automatiquement renseignées dans le channel [#logs-sanctions](https://discord.gg/uKSqSEp) du Discord.
 
+## Bot de gestion de Staff
+Vous apprendrez ici à utiliser le bot de Gestion de Staff **@Elysion Staff#8062**
+
+### Informations de base
+
+|Item|Valeur  |
+|--|--|
+|Préfixe  |?  |
+|Rôle minimum|@Responsable Modérateur  |
+
+### Commandes
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs]([https://ricostacruz.com/flatdoc/](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
