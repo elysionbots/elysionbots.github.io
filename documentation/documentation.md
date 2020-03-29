@@ -150,6 +150,8 @@ Vous apprendrez ici à utiliser le bot de Drops **@Elysion Drops#7959**
 |--|--|--|--|
 |&drop  |Permet de créer un drop  |<strong>add &lt;type&gt; &lt;nombre de réactions&gt; &lt;channel&gt;|@Créateur de drops|
 
+### La commande "&drop"
+
 #### 1. Type
 Choisissez le type de contenu à mettre en jeu. Vous avez le choix entre **coupon**, **giftcard**, **steam**, **nitro**.
 
@@ -158,5 +160,23 @@ Précisez le nombre de réactions de l'émoji 🎁 à atteindre pour débloquer 
 
 #### 3. Channel
 Précisez le channel où le contenu doit être mis en jeu. Vous avez le choix entre **boost** et **normal** (**boost** étant le channel de drops disponibles aux boosters du serveur Discord).
+
+**Alors, le bot vous posera une série de questions.**
+
+#### 1. Le contenu
+Entrez le contenu du drop. Cela peut être un lien **Discord Nitro**, le code d'un **coupon**, d'une **giftcard** ou d'un jeu **Steam**.
+
+#### 2. Plus de précisions...
+Entrez alors plus de précisions, selon le tableau ci-dessous :
+
+|Type de contenu|Précision demandée  |
+|--|--|
+|Nitro  |Type de nitro : **classic** ou **game**  |
+|Coupon|Réduction en % (sans préciser l'unité, doit être un nombre entier)|
+|Giftcard|Montant de la giftcard en € (sans préciser l'unité, doit être un nombre entier)|
+|Steam|Lien du jeu steam. Le lien doit se terminer par une suite de chiffres et ne doit pas comporter le nom du jeu. Par exemple, le lien du jeu Garry's Mod tel qu'on le trouve est [https://store.steampowered.com/app/4000/Garrys_Mod/](https://store.steampowered.com/app/4000/Garrys_Mod/), le lien à entrer est [https://store.steampowered.com/app/4000/](https://store.steampowered.com/app/4000/). **Ceci est très important, sans quoi le drop ne marchera pas !**|
+
+**Note** : pour les drops de type Steam, vous pouvez obtenir une erreur comme quoi l'URL est invalide. Vérifiez qu'il n'y a aucun espace à la fin et réessayez autant de fois que nécessaire (souvent une ou deux fois en cas de bug).
+
 
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
