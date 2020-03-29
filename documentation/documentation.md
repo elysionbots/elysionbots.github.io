@@ -4,4 +4,4 @@ Voici une petite documentation vis-à-vis des bots Elysion réalisés par **Dark
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+> Fait avec [StackEdit](https://stackedit.io/).
