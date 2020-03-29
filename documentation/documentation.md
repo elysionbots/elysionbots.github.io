@@ -24,6 +24,7 @@ Les durées doivent être exprimées d'une certaine manière, voir le tableau ci
 Les secondes ne sont pas disponibles.
 La durée sera alors exprimée ainsi : **<durée><unité>**
 Note : <durée> doit être un nombre entier.
+
 **Exemple** : Si je veux appliquer une durée de trois jours, j'écrirai **3d**.
 
 ### Liste des commandes
