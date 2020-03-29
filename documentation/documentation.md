@@ -39,4 +39,4 @@ Note : <strong>[durée]</strong> doit être un nombre entier.
 |*ban|Permet de bannir définitivement un utilisateur|<strong>[@utilisateur] [durée] [raison]</strong>|@Responsable Staff|
 
 
-> Fait avec [StackEdit](https://stackedit.io/).
+> Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs]([https://ricostacruz.com/flatdoc/](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
