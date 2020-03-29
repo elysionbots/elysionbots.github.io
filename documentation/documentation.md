@@ -97,6 +97,34 @@ Vous apprendrez ici à utiliser le bot de Gestion de Staff **@Elysion Staff#8062
 |?demote|Permet de totalement demote un staff.|<strong><@utilisateur></strong>|@Responsable Modérateur|
 
 ### La commande "?staffpromote"
+La commande **?staffpromote** sert à promouvoir quelqu'un en staff ou à promouvoir un staff. Elle se déroule en plusieurs étapes.
 
+#### 1. Catégorie
+Vous devez choisir la catégorie de staff dans laquelle vous voulez promouvoir l'utilisateur. Voici les différentes options : **darkrp**, **militaryrp**, **basewars**. Notez que vous ne pourrez promouvoir un utilisateur dans une catégorie que si vous avez le rôle nécessaire <u>dans la catégorie mentionnée</u>.
+
+#### 2. Utilisateur à promouvoir
+Vous devez ensuite mentionner l'utilisateur que vous souhaitez promouvoir. Il doit avoir <u>un rang inférieur au vôtre</u>.
+
+#### 3. Rôle auquel promouvoir l'utilisateur
+Vous devez ensuite marquer le nom du rôle auquel l'utilisateur doit être promu.
+
+Voici la liste :
+
+|Nom|Rôle correspondant  |
+|--|--|
+|MODOTEST  |@Modo Test  |
+|MODO|@Modérateur|
+|MODOSENIOR|@Modérateur Sénior|
+|RESPMODO|@Responsable Modérateur|
+|RESPSTAFF|@Responsable Staff|
+
+Notez que vous pouvez promouvoir quelqu'un à un rôle qui est inférieur au vôtre. Ainsi, seuls **Toshiro** et **Diaboloz** peuvent promouvoir des personnes au rôle de Responsable Staff, le plus haut. Vous pouvez rétrogader un staff en mentionnant un rôle inférieur à celui qu'il a actuellement.
+
+### La commande "?demote"
+La commande **?demote** permet de rétrogader totalement un staff. Il suffit de mentionner le staff à rétrogader.
+
+### Logs
+Tous les promote / demote sont notifiés dans le channel [#logs-promotes](https://discord.gg/PnVDVaJ).
+ 
 
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
