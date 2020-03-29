@@ -31,7 +31,7 @@ Note : <durée> doit être un nombre entier.
 |--|--|--|--|
 |*warn  |Permet d'avertir un utilisateur  |[@utilisateur] [raison]|@Modo Test|
 |*mute|Permet de rendre muet un utilisateur|[@utilisateur] [durée] [raison]|@Modo|
-|*tempban|
+|*tempban|Permet de bannir temporairement un utilisateur|[@utilisateur][durée][raison]|@Responsable Modérateur
 
 
 > Fait avec [StackEdit](https://stackedit.io/).
