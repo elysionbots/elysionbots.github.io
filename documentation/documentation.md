@@ -30,7 +30,7 @@ Note : <strong>[durée]</strong> doit être un nombre entier.
 **Exemple** : Si je veux appliquer une durée de trois jours, j'écrirai **3d**.
 
 ### Liste des commandes
-<strong>\<valeur\></strong> = argument optionnel
+<strong>&lt;valeur&gt;</strong> = argument optionnel
 
 <strong>[valeur]</strong> = argument requis
 
