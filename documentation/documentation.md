@@ -91,9 +91,9 @@ Vous apprendrez ici à utiliser le bot de Gestion de Staff **@Elysion Staff#8062
 
 <strong>[valeur]</strong> = argument requis
 
-|Commande|Fonction  |Arguments|Rôle requis|
+|Commande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Fonction  |Arguments|Rôle requis|
 |--|--|--|--|
-|?staffpromote  |Permet de promote un staff.  |Aucun.|@Responsable Modérateur|
+|?staffpromote|Permet de promote un staff.  |Aucun.|@Responsable Modérateur|
 |?demote|Permet de totalement demote un staff.|<strong><@utilisateur></strong>|@Responsable Modérateur|
 
 ### La commande "?staffpromote"
@@ -126,5 +126,25 @@ La commande **?demote** permet de rétrogader totalement un staff. Il suffit de 
 ### Logs
 Tous les promote / demote sont notifiés dans le channel [#logs-promotes](https://discord.gg/PnVDVaJ).
  
+## Bots de drops
+Vous apprendrez ici à utiliser le bot de Drops **@Elysion Drops#7959**
+
+### Informations de base
+
+|Item|Valeur  |
+|--|--|
+|Préfixe  |&  |
+|Rôle minimum|@Créateur de drops  |
+
+### Commandes
+
+<strong>&lt;valeur&gt;</strong> = argument optionnel
+
+<strong>[valeur]</strong> = argument requis
+
+|Commande|Fonction  |Arguments|Rôle requis|
+|--|--|--|--|
+|  |  |
+
 
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
