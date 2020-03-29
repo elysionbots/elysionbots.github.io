@@ -73,4 +73,17 @@ Vous apprendrez ici à utiliser le bot de Gestion de Staff **@Elysion Staff#8062
 |Rôle minimum|@Responsable Modérateur  |
 
 ### Commandes
+
+<strong>&lt;valeur&gt;</strong> = argument optionnel
+
+<strong>[valeur]</strong> = argument requis
+
+|Commande|Fonction  |Arguments|Rôle requis|
+|--|--|--|--|
+|?staffpromote  |Permet de promote un staff.  |Aucun.|@Responsable Modérateur|
+|?demote|Permet de totalement demote un staff.|<strong><@utilisateur></strong>|@Responsable Modérateur|
+
+### La commande "?staffpromote"
+
+
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
