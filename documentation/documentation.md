@@ -13,5 +13,10 @@ Vous apprendrez ici à utiliser le bot de Modération **@Elysion Modération#152
 |Préfixe  |*  |
 |Rôle minimum|@Modo Test  |
 
+### Liste des commandes
+|Commande|Fonction  |Arguments|Rôle requis|
+|--|--|--|--|
+|*warn  |Permet d'avertir un utilisateur  |[@utilisateur] [raison]|@Modo Test|
+
 
 > Fait avec [StackEdit](https://stackedit.io/).
