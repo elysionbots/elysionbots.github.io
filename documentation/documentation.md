@@ -30,19 +30,19 @@ Note : <strong>[durée]</strong> doit être un nombre entier.
 **Exemple** : Si je veux appliquer une durée de trois jours, j'écrirai **3d**.
 
 ### Liste des commandes
-<strong>&lt;valeur&gt;</strong> = argument optionnel
+<strong>&lt;valeur&gt;</strong> = argument requis
 
-<strong>[valeur]</strong> = argument requis
+<strong>[valeur]</strong> = argument optionnel
 
 |Commande|Fonction  |Arguments|Rôle requis|
 |--|--|--|--|
 |*getwarns|Permet d'avoir ses derniers warns / voir ceux d'un autre utilisateur|<strong><@utilisateur></strong>|@Joueur|
-|*warn  |Permet d'avertir un utilisateur  |<strong>[@utilisateur] [raison]</strong>|@Modo Test|
-|*mute|Permet de rendre muet un utilisateur|<strong>[@utilisateur] [durée] [raison]</strong>|@Modo|
-|*unmute|Permet d'annuler le mute d'un utilisateur|<strong>[@utilisateur]</strong>|@Modo
-|*tempban|Permet de bannir temporairement un utilisateur|<strong>[@utilisateur][durée][raison]</strong>|@Responsable Modérateur|
-|*unban|Permet de débannir un utilisateur|<strong>[identifiant de l'utilisateur]|@Responsable Modérateur|
-|*ban|Permet de bannir définitivement un utilisateur|<strong>[@utilisateur] [durée] [raison]</strong>|@Responsable Staff|
+|*warn  |Permet d'avertir un utilisateur  |<strong><@utilisateur> &lt;raison&gt;</strong>|@Modo Test|
+|*mute|Permet de rendre muet un utilisateur|<strong><@utilisateur> <durée> &lt;raison&gt;</strong>|@Modo|
+|*unmute|Permet d'annuler le mute d'un utilisateur|<strong><@utilisateur></strong>|@Modo
+|*tempban|Permet de bannir temporairement un utilisateur|<strong><@utilisateur> <durée> &lt;raison&gt;</strong>|@Responsable Modérateur|
+|*unban|Permet de débannir un utilisateur|<strong><identifiant de l'utilisateur>|@Responsable Modérateur|
+|*ban|Permet de bannir définitivement un utilisateur|<strong><@utilisateur> <durée> &lt;raison&gt;</strong>|@Responsable Staff|
 
 ### Sanctions automatiques
 Voici la liste des sanctions automatiques, appliquées par le bot :
@@ -87,9 +87,9 @@ Vous apprendrez ici à utiliser le bot de Gestion de Staff **@Elysion Staff#8062
 
 ### Commandes
 
-<strong>&lt;valeur&gt;</strong> = argument optionnel
+<strong>&lt;valeur&gt;</strong> = argument requis
 
-<strong>[valeur]</strong> = argument requis
+<strong>[valeur]</strong> = argument optionnel
 
 |Commande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Fonction  |Arguments|Rôle requis|
 |--|--|--|--|
@@ -138,13 +138,13 @@ Vous apprendrez ici à utiliser le bot de Drops **@Elysion Drops#7959**
 
 ### Commandes
 
-<strong>&lt;valeur&gt;</strong> = argument optionnel
+<strong>&lt;valeur&gt;</strong> = argument requis
 
-<strong>[valeur]</strong> = argument requis
+<strong>[valeur]</strong> = argument optionnel
 
 |Commande|Fonction  |Arguments|Rôle requis|
 |--|--|--|--|
-|  |  |
+|&drop  |Permet de créer un drop  |<strong>add &lt;type&gt; <nombre de réactions> &lt;channel&gt;|@Créateur de drops|
 
 
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
