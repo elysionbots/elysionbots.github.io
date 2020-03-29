@@ -63,13 +63,17 @@ Les sanctions de type **warn** et **ban**/**tempban** sont associées à un grad
 Il est possible de bannir un utilisateur qui a quitté le discord avec son identifiant, et il est nécessaire de l'avoir pour débannir quelqu'un. Voici comment l'obtenir.
 
 Allez dans vos paramètres Discord puis dans **"Apparence"** :
+
 ![settings](https://i.imgur.com/qIvazOQ.png)
+
 ![apparance](https://i.imgur.com/tR7G2Qk.png)
 
 Descendez tout en bas et cochez l'option **"Mode développeur"**. Redémarrez ensuite Discord pour que les changements prennent effet.
+
 ![dev](https://i.imgur.com/iHbgVkT.png)
 
 Pour avoir l'identifiant d'un utilisateur, faites un clic droit dessus puis cliquez sur **"Copier l'identifiant"**. L'identifiant a alors été copié dans votre presse papier, et vous pouvez l'utiliser dans une commande.
+
 ![copier identifiant](https://i.imgur.com/Tzc864Y.png)
 
 ### Logs
@@ -146,5 +150,13 @@ Vous apprendrez ici à utiliser le bot de Drops **@Elysion Drops#7959**
 |--|--|--|--|
 |&drop  |Permet de créer un drop  |<strong>add &lt;type&gt; &lt;nombre de réactions&gt; &lt;channel&gt;|@Créateur de drops|
 
+#### 1. Type
+Choisissez le type de contenu à mettre en jeu. Vous avez le choix entre **coupon**, **giftcard**, **steam**, **nitro**.
+
+#### 2. Nombre de réactions
+Précisez le nombre de réactions de l'émoji 🎁 à atteindre pour débloquer le contenu. Il doit être un nombre entier.
+
+#### 3. Channel
+Précisez le channel où le contenu doit être mis en jeu. Vous avez le choix entre **boost** et **normal** (**boost** étant le channel de drops disponibles aux boosters du serveur Discord).
 
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
