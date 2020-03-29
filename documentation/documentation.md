@@ -59,8 +59,21 @@ Les sanctions de type **warn** et **ban**/**tempban** sont associées à un grad
 
 **Par exemple**, une personne bannie par un Responsable Modérateur Military ne pourra être débannie que par un Responsable Modérateur Military, un Responsable Staff Military ou la **main team**.
 
+### Obtenir l'identifiant d'un utilisateur
+Il est possible de bannir un utilisateur qui a quitté le discord avec son identifiant, et il est nécessaire de l'avoir pour débannir quelqu'un. Voici comment l'obtenir.
+
+Allez dans vos paramètres Discord puis dans **"Apparence"** :
+![settings](https://i.imgur.com/lqHDeSa.png)
+![apparance](https://i.imgur.com/D2o4Jtf.png)
+
+Descendez tout en bas et cochez l'option **"Mode développeur"**. Redémarrez ensuite Discord pour que les changements prennent effet.
+![dev](https://i.imgur.com/AUDYeJL.png)
+
+Pour avoir l'identifiant d'un utilisateur, faites un clic droit dessus puis cliquez sur **"Copier l'identifiant"**. L'identifiant a alors été copié dans votre presse papier, et vous pouvez l'utiliser dans une commande.
+![copier identifiant](https://i.imgur.com/qFX9NEB.png)
+
 ### Logs
-Toutes les sanctions sont automatiquement renseignées dans le channel [#logs-sanctions](https://discord.gg/uKSqSEp) du Discord.
+Toutes les sanctions sont automatiquement renseignées dans le channel [#logs-sanctions](https://discord.gg/uKSqSEp) du Discord. De plus, un message avec les détails de la sanction est envoyé à l'utilisateur sanctionné.
 
 ## Bot de gestion de Staff
 Vous apprendrez ici à utiliser le bot de Gestion de Staff **@Elysion Staff#8062**
