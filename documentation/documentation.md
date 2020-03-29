@@ -23,9 +23,9 @@ Les durées doivent être exprimées d'une certaine manière, voir le tableau ci
 
 Les secondes ne sont pas disponibles.
 
-La durée sera alors exprimée ainsi : <strong>[durée][unité]</strong>
+La durée sera alors exprimée ainsi : <strong>&lt;durée&gt;&lt;unité&gt;</strong>
 
-Note : <strong>[durée]</strong> doit être un nombre entier.
+Note : <strong>&t;durée&gt;</strong> doit être un nombre entier.
 
 **Exemple** : Si je veux appliquer une durée de trois jours, j'écrirai **3d**.
 
@@ -36,7 +36,7 @@ Note : <strong>[durée]</strong> doit être un nombre entier.
 
 |Commande|Fonction  |Arguments|Rôle requis|
 |--|--|--|--|
-|*getwarns|Permet d'avoir ses derniers warns / voir ceux d'un autre utilisateur|<strong><@utilisateur></strong>|@Joueur|
+|*getwarns|Permet d'avoir ses derniers warns / voir ceux d'un autre utilisateur|<strong>[@utilisateur]</strong>|@Joueur|
 |*warn  |Permet d'avertir un utilisateur  |<strong><@utilisateur> &lt;raison&gt;</strong>|@Modo Test|
 |*mute|Permet de rendre muet un utilisateur|<strong><@utilisateur> <durée> &lt;raison&gt;</strong>|@Modo|
 |*unmute|Permet d'annuler le mute d'un utilisateur|<strong><@utilisateur></strong>|@Modo
@@ -130,7 +130,7 @@ La commande **?demote** permet de rétrogader totalement un staff. Il suffit de 
 ### Logs
 Tous les promote / demote sont notifiés dans le channel [#logs-promotes](https://discord.gg/PnVDVaJ).
  
-## Bots de drops
+## Bot de drops
 Vous apprendrez ici à utiliser le bot de Drops **@Elysion Drops#7959**
 
 ### Informations de base
