@@ -30,8 +30,8 @@ Note : <strong>[durée]</strong> doit être un nombre entier.
 **Exemple** : Si je veux appliquer une durée de trois jours, j'écrirai **3d**.
 
 ### Liste des commandes
-
-<strong>\[argument]</strong> = argument requis
+<strong>\<argument\></strong> = argument optionnel
+<strong>[argument]</strong> = argument requis
 |Commande|Fonction  |Arguments|Rôle requis|
 |--|--|--|--|
 |*getwarns|Permet d'avoir ses derniers warns / voir ceux d'un autre utilisateur|<strong><@utilisateur></strong>|@Joueur|
