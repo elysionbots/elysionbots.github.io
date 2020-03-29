@@ -21,9 +21,9 @@ Les durées doivent être exprimées d'une certaine manière, voir le tableau ci
 |Jours|d|
 
 Les secondes ne sont pas disponibles.
-La durée sera alors exprimée ainsi : 
-
-> <durée><unitée>
+La durée sera alors exprimée ainsi : **<durée><unité>**
+Note : <durée> doit être un nombre entier.
+**Exemple** : Si je veux appliquer une durée de trois jours, j'écrirai **3d**.
 
 ### Liste des commandes
 |Commande|Fonction  |Arguments|Rôle requis|
