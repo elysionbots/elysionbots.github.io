@@ -12,6 +12,7 @@ Vous apprendrez ici à utiliser le bot de Modération **@Elysion Modération#152
 |--|--|
 |Préfixe  |*  |
 |Rôle minimum|@Modo Test  |
+
 ### Durées
 Les durées doivent être exprimées d'une certaine manière, voir le tableau ci-dessous :
 |Unité|Suffixe  |
@@ -29,7 +30,8 @@ Note : <durée> doit être un nombre entier.
 |Commande|Fonction  |Arguments|Rôle requis|
 |--|--|--|--|
 |*warn  |Permet d'avertir un utilisateur  |[@utilisateur] [raison]|@Modo Test|
-|*mute|Permet de rendre muet un utilisateur|[@utilisateur] [durée] [raison]|@Modo
+|*mute|Permet de rendre muet un utilisateur|[@utilisateur] [durée] [raison]|@Modo|
+|*tempban|
 
 
 > Fait avec [StackEdit](https://stackedit.io/).
