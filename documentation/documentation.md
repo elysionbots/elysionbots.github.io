@@ -178,5 +178,8 @@ Entrez alors plus de précisions, selon le tableau ci-dessous :
 
 **Note** : pour les drops de type Steam, vous pouvez obtenir une erreur comme quoi l'URL est invalide. Vérifiez qu'il n'y a aucun espace à la fin et réessayez autant de fois que nécessaire (souvent une ou deux fois en cas de bug).
 
+**Note** : Même si le contenu du drop est supprimé du channel par sécurité, veuillez effectuer vos commandes dans [#créateur-de-drop](https://discord.gg/FatUsqe).
+
+### Débloquer et récupérer le drop
 
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
