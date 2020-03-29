@@ -181,5 +181,12 @@ Entrez alors plus de précisions, selon le tableau ci-dessous :
 **Note** : Même si le contenu du drop est supprimé du channel par sécurité, veuillez effectuer vos commandes dans [#créateur-de-drop](https://discord.gg/FatUsqe).
 
 ### Débloquer et récupérer le drop
+Pour débloquer le drop, il suffit de réagir à l'émoji 🎁 qui apparaît  sous le message. Vous avez quelques informations sur le message du drop, comme le jeu mis en jeu si le contenu est un jeu steam, le type de nitro mis en jeu, la réduction du coupon ou encore le montant de la carte cadeau mise en jeu.
+
+Pour récupérer le nitro, il suffit de cliquer sur le lien.
+
+Pour récupérer le coupon ou la carte cadeau, allez sur [la boutique](https://boutique.elysionrp.fr), puis une fois vos achats faits allez dans votre panier. Rentrez le code dans le champ prévu à cet effet et cliquez sur **"Echanger"**.
+
+![echanger](https://i.imgur.com/cTnuaGy.png)
 
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
