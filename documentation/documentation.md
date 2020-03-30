@@ -181,7 +181,7 @@ Entrez alors plus de précisions, selon le tableau ci-dessous :
 **Note** : Même si le contenu du drop est supprimé du channel par sécurité, veuillez effectuer vos commandes dans [#créateur-de-drop](https://discord.gg/FatUsqe).
 
 ### Débloquer et récupérer le drop
-Pour débloquer le drop, il suffit de réagir à l'émoji 🎁 qui apparaît  sous le message. Vous avez quelques informations sur le message du drop, comme le jeu mis en jeu si le contenu est un jeu steam, le type de nitro mis en jeu, la réduction du coupon ou encore le montant de la carte cadeau mise en jeu.
+Pour débloquer le drop, il suffit de réagir à l'émoji 🎁 qui apparaît  sous le message. Vous avez quelques informations sur le message du drop, comme le jeu proposé si le contenu est un jeu Steam, le type de nitro mis en jeu, la réduction du coupon ou encore le montant de la carte cadeau mise en jeu.
 
 Pour récupérer le nitro, il suffit de cliquer sur le lien.
 
@@ -189,4 +189,14 @@ Pour récupérer le coupon ou la carte cadeau, allez sur [la boutique](https://b
 
 ![echanger](https://i.imgur.com/cTnuaGy.png)
 
+Pour récupérer une clé Steam, il faut avoir l'application de bureau Steam (c'est à dire le logiciel installé sur votre ordinateur). Une fois sur cette dernière, cliquez en haut sur l'onglet **"Jeux"** puis sur **"Activer un produit sur Steam"** dans la liste déroulante.
+
+![jeux](https://i.imgur.com/Wfesb15.png)
+
+Ensuite, dans la fenêtre qui s'ouvre, cliquez sur **"Suivant"**, **"Je suis d'accord"** puis rentrez la clé Steam obtenue et cliquez sur **"Suivant"**. Confirmez que vous voulez récupérer le jeu, et c'est bon !
+
+![code](https://i.imgur.com/VBoxETH.png)
+
+### Notes
+Si il est marqué que le jeu Steam est dupliqué, que le Nitro a été récupéré ou encore qu'il ne reste que quelques centimes sur une giftcard par exemple, c'est que le lot en question a déjà été utilisé. Tout ce qui est mis en jeu est valide.
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
