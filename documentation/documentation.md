@@ -200,7 +200,7 @@ Ensuite, dans la fenêtre qui s'ouvre, cliquez sur **"Suivant"**, **"Je suis d'a
 ### Notes
 Si il est marqué que le jeu Steam est dupliqué, que le Nitro a été récupéré ou encore qu'il ne reste que quelques centimes sur une giftcard par exemple, c'est que le lot en question a déjà été utilisé. Tout ce qui est mis en jeu est valide.
 
-## Être notifié des drops
+### Être notifié des drops
 Vous pouvez décider d'être notifié lors des drops ! <br>
 Dès lors,, il vous suffit de vous rendre dans le channel [#➕roles](https://discord.gg/wtrefNM) et de réagir au message, ou bien de cliquer sur l'émoji **"Follow"** en dessous d'un drop <u>actif</u>.
 
