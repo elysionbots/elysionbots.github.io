@@ -199,4 +199,69 @@ Ensuite, dans la fenêtre qui s'ouvre, cliquez sur **"Suivant"**, **"Je suis d'a
 
 ### Notes
 Si il est marqué que le jeu Steam est dupliqué, que le Nitro a été récupéré ou encore qu'il ne reste que quelques centimes sur une giftcard par exemple, c'est que le lot en question a déjà été utilisé. Tout ce qui est mis en jeu est valide.
+
+## Bot de Tickets
+Vous apprendrez ici à utiliser le bot de Gestion de Staff **@Elysion Tickets#3240**
+
+### Informations de base
+
+|Item|Valeur  |
+|--|--|
+|Préfixe  |+  |
+|Rôle minimum|@Joueur  |
+
+### Commandes
+
+<strong>&lt;valeur&gt;</strong> = argument requis
+
+<strong>[valeur]</strong> = argument optionnel
+
+|Commande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Fonction  |Arguments|Rôle requis|
+|--|--|--|--|
+|+new|Permet de créer un ticket |<strong>&lt;type&gt; &lt;raison&gt;</strong>|@Joueur|
+|+close|Permet de fermer un ticket|<strong>[raison]</strong>|@Joueur|
+|+rename|Permet de renommer un ticket|<strong>&lt;nouveau nom&gt;</strong>|@Modo test|
+|+reponse|Permet d'envoyer une réponse prédéfinie|<strong>&lt;nom de la réponse&gt;</strong>|@Modo Test|
+
+**Note :** Toutes les commandes excepté **+new** sont à effectuer dans un ticket.
+
+### La commande "+new"
+La commande **"+new"** permet de créer un ticket. Elle prend deux arguments. Le premier, c'est le type de serveur pour lequel vous souhaitez ouvrir un ticket : vous avez le choix entre **darkrp**, **military** ou **basewars**. Ensuite, spécifiez la raison.
+
+**Exemple :** je veux ouvrir un ticket DarkRP pour une question RP, je tape **"+new darkrp j'ai une question RP"**. 
+
+Un message vous est alors renvoyé avec le nom du channel, et le ticket apparaît dans vos channels Discord.
+
+### Fermer un ticket
+Pour fermer un ticket, vous avez le choix entre réagir sous le message du bot en haut du channel avec l'émoji 🔒, ou bien tapez la commande **"+close &lt;raison&gt;"**.
+
+### Réponses prédéfinies
+Le staff a accès à la commande **"+reponse"** qui permet de renvoyer une réponse prédéfinie.
+
+Voici la liste des réponses disponibles, avec leur nom, qui est à ajouter à la suite de la commande :
+
+|Nom|Contenu  |
+|--|--|
+|ddd  |https://pastebin.com/7dJQTgv5  |
+|ddb|https://pastebin.com/pErNckdt|
+|remboursement|https://pastebin.com/8B6UEiyc|
+|error|https://pastebin.com/W0Y8kfhD|
+|boutique|https://pastebin.com/yLBX5JEx|
+|plaintes|https://pastebin.com/e21ZcFf7|
+|staff|https://pastebin.com/b4xnpZiN|
+
+La liste précédente est également proposée lorsque vous n'ajoutez pas d'arguments à la commande.
+
+**Exemple :** Je veux renvoyer la réponse concernant les remboursements, je tape **"+reponse remboursement"**.
+
+### Logs
+Les channels de logs sont : 
+
+|Type de serveur|Channel  |
+|--|--|
+|DarkRp  |[#logs-tickets-darkrp](https://discord.gg/x89BzjE)  |
+|Military|[#logs-tickets-military](https://discord.gg/PguEhx2)|
+|Basewars|[#logs-tickets-basewars](https://discord.gg/78vbrtu)|
+
+## Bot de Levels & IQ
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
