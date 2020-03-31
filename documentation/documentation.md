@@ -264,4 +264,51 @@ Les channels de logs sont :
 |Basewars|[#logs-tickets-basewars](https://discord.gg/78vbrtu)|
 
 ## Bot de Levels & IQ
+Enfin, ici vous apprendrez à utiliser le bot **@MODO PARFAIT#0652**.
+
+### Informations de base
+
+|Item|Valeur  |
+|--|--|
+|Préfixe  |!  |
+|Rôle minimum|@Joueur  |
+
+### Commandes
+
+<strong>&lt;valeur&gt;</strong> = argument requis
+
+<strong>[valeur]</strong> = argument optionnel
+
+|Commande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Fonction  |Arguments|Rôle requis|
+|--|--|--|--|
+|!leaderboard|Permet de voir le classement des levels|Aucun.|@Joueur|
+|!iqboard|Permet de voir le classement des IQs|Aucun.|@Joueur|
+|!trade|Permet d'envoyer des IQs à quelqu'un|<strong>&lt;@utilisateur&gt; &lt;nombre d'IQ à envoyer&gt;</strong>|@Joueur|
+|!rank|Permet de voir la carte de profil d'un membre (ou la sienne si aucun membre n'est mentionné)|<strong>[@utilisateur]</strong>|@Joueur|
+|!clean|Permet de supprimer x messages|<strong>&lt;nombre de messages à supprimer&gt;</strong> <u>(doit être inférieur à 100)</u>|@Admin discord|
+|!setxp|Permet de définir l'XP d'un member|<strong>&lt;@utilisateur&gt; &lt;nombre d'XP&gt;|@Admin discord|
+|!setlevel|Permet de définir le niveau d'un membre|<strong>&lt;@utilisateur&gt; &lt;nombre de levels&gt;|@Admin discord|
+|!setiq|Permet de définir l'IQ d'un membre|<strong>&lt;@utilisateur&gt; &lt;nombre d'IQ&gt;|@Admin discord|
+
+### XP, Levels & IQ
+Vous gagnez 5 XP par message envoyé sur le serveur ou réaction ajoutée dans les canaux RP. Au bout d'un certain nombre d'XP, défini selon votre niveau, vous gagnez un niveau, le *level*. Le nombre d'XP à avoir augmente de **20%** à chaque level.
+
+Au bout de 50 niveaux, vous gagnez un rôle de <u>Membre Actif</u>, et avez une couleur différente ainsi qu'un accès à un channel privé de drops.
+
+Quant à l'IQ, il est donné lorsque vous invitez quelqu'un (mais se retire si la personne part). Il donnera par la suite accès à des récompenses.
+
+Toutes les données énoncées ci-dessus sont accessibles sur la carte donnée par la commande **!rank** :
+
+![rank](https://cdn.discordapp.com/attachments/612016126838177870/694503987654950952/rank.png)
+
+Pour l'instant, le membre avec le *level* le plus élevé est **Martin Favre**, au niveau 18 :
+
+![favre](https://cdn.discordapp.com/attachments/612016126838177870/694504236075188275/rank.png)
+
+
+## Lier son grade IG à Discord
+Cette fonctionnalité arrive d'ici quelques jours, vous serez averti lorsqu'elle sera mise en place. Elle sera automatisée.
+
+## En cas de problème...
+En cas de problème, contactez **@DarkScientist_#9449** sur Discord ou ouvre un ticket.
 > Markdown edité avec [StackEdit](https://stackedit.io/), documentation générée par [Flatdocs](https://ricostacruz.com/flatdoc/), écrite par **DarkScientist_**.
